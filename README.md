@@ -12,8 +12,9 @@ This Arduino script uses a potentiometer and pushbutton to control RGB LEDs. I c
 # How to Use
 
 The pushbutton allows for three functions to be performed:
+
 | Press Length | Function |
-| ------ | ------ |
+| ------------ | -------- |
 | < 1 second | Change color (r,g,b) to control |
 | >= 1 second  AND  < 2 seconds | Toggle LEDs on/off  |
 | >= 2 seconds | Toggle pattern on/off |
